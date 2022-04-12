@@ -22,7 +22,7 @@ const Header = () => {
                             <a className="">Doc</a>
                         </Link>
                     </li>
-                        <Link href="https://api.selfer.fr/oauth">
+                        <Link href="https://back.selfer.fr/oauth">
                             <a className={styles.loginLink}><span className={styles.accentColor}>Start with Notion</span></a>
                         </Link>
                 </ul>

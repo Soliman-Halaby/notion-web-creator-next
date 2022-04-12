@@ -40,7 +40,7 @@ function HomePage() {
             <h1 className={styles.heroSectionTitle}>Create your website with the Selfer App</h1>
             <h3 className={styles.heroSectionDescription}>A quick stop between Notion and the web, to make your pages
               <span className={styles.accentColor}> stand out</span>.</h3>
-            <Link href="https://api.selfer.fr/oauth">
+            <Link href="https://back.selfer.fr/oauth">
             <a className={styles.heroSectionLogin}>
               <div className={styles.notionLogoContainer}>   
                 <Image src={NotionLogo} alt="logo Notion"></Image>
